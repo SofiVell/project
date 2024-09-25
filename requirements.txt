@@ -1,0 +1,8 @@
+streamlit
+threading
+time
+asyncio
+functools
+sqlite3
+pymongo
+telebot
