@@ -1,0 +1,14 @@
+[theme]
+primaryColor = "#00FFFF"  
+backgroundColor = "#2A004F"  
+secondaryBackgroundColor = "#4B0082"
+textColor = "#FFB6C1"  
+accentColor = "#FF00FF"
+font = "monospace"
+borderRadius = 20  
+sliderTrackColor = "#EE82EE"  
+sliderThumbColor = "#FF1493"  
+progressColor = "#FF69B4" 
+warningColor = "#FF4500" 
+successColor = "#7CFC00"
+errorColor = "#FF0000" 
